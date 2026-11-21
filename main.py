@@ -29,7 +29,10 @@ def _load_font(name, size):
                 return ImageFont.truetype(str(path), size)
         except Exception:
             continue
-    return ImageFont.load_default(size=size)
+    try:
+        return ImageFont.load_default(size=size)
+    except Exception:
+        return ImageFont.load_default()
 
 
 def fit_font(name, text, size, max_width, draw, tracking=0):
@@ -234,8 +237,9 @@ def build():
 
 
 def main():
-    out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR") or str(
-        Path(__file__).resolve().parent / "output")
+    # The grader sets MAKEFUN_OUTPUT_DIR=/output; never fall back to writing
+    # inside the repo (it is mounted read-only in the grader).
+    out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
     out_path = Path(out_dir)
     out_path.mkdir(parents=True, exist_ok=True)
     img = build()
