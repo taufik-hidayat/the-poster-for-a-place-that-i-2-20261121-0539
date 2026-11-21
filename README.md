@@ -1,8 +1,8 @@
 # VELKARA — The City Above the Clouds
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7C3AED)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-00C853)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![make.fun](https://img.shields.io/badge/make.fun-VELKARA-FF6B35)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/taufik-hidayat/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/taufik-hidayat/the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
 A travel poster for a place that isn't there — **VELKARA, the city above the
 clouds**. Floating islands with tiny tower cities drift over a sea of clouds
